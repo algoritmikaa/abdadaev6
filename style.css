@@ -1,0 +1,52 @@
+body {
+    font-family: sans-serif;
+}
+
+header {
+    padding: 45px;
+}
+
+header a {
+    color:black;
+    margin-left: 200px;
+    justify-content: center;
+    font-size: 50px;
+    text-shadow: 10px 10px 10px 5px grey;
+
+}
+
+
+footer {
+    background-color: black;
+    padding: 12px;
+}
+
+body {
+    background-image: linear-gradient(to right, rgb(104, 104, 104),rgb(104, 104, 104), rgb(32, 32, 32));
+    font-size: 20px;
+}
+
+h1 {
+    text-align: center;
+    color: rgb(32, 32, 32);
+}
+
+img {
+    background-color: black;
+}
+
+div {
+    border: 3px solid black;
+    
+}
+
+
+
+
+
+
+
+
+
+
+
